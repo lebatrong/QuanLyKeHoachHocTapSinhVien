@@ -1,0 +1,17 @@
+﻿Mã lỗi 100: Tạo database không thành công -----ReadDatabase()
+
+Mã lỗi 101: Lỗi exec ------Exec_Tsql()
+
+Mã lỗi 102: Lỗi FillDataTable   --------FillDataTable()
+
+Mã lỗi 103.1: Lỗi close connection ----- Close()
+
+Mã lỗi 103.2: Lỗi open connection ----- Open()
+
+Mã lỗi 104: Lỗi connection login ------ frmLogin()
+
+Mã lỗi 105: Lỗi add môn --------Addmon()
+
+Mã lỗi 106: Lỗi btnNhap-click() -----ucNhapDiem
+
+

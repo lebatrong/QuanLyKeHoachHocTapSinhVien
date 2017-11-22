@@ -1,0 +1,5 @@
+
+Database:	k1838batr_123
+Host:	localhost
+Username:	k1838batr_123
+Password:	uWUBm0kGFc

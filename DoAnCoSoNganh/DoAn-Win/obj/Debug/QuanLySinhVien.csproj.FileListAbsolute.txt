@@ -1,0 +1,354 @@
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DoAn-Win.exe
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DoAn-Win.pdb
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Data.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Utils.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraBars.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Office.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Data.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Utils.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraBars.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Office.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\QuanLySinhVien.csproj.ResolveComReference.cache
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.frmChiTietMonHoc.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.frmLogin.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.frmMain.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.frmNote.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.FrmNoteToday.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinh.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhHeThongTT.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhKhoaHocMT.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhMMT.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.Properties.Resources.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucAddMon.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.ucEdit.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.UcEditAccount.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucEditMonHoc.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.ucEditPass.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.ucIndex.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.ucNhapDiem.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucNote.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.ucRegister.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn_Win.ucThongTin.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn-Win.exe.licenses
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn-Win.exe
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh - MS SQLExpress\DoAn-Win\obj\Debug\DoAn-Win.pdb
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\QuanLySinhVien.csproj.ResolveComReference.cache
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn-Win.exe
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn-Win.pdb
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DoAn-Win.exe
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DoAn-Win.pdb
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Data.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Utils.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraBars.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Office.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Data.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Utils.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraBars.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Office.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmChiTietMonHoc.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmLogin.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmMain.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmNote.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.FrmNoteToday.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinh.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhHeThongTT.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhKhoaHocMT.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhMMT.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.Properties.Resources.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucAddMon.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucEdit.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UcEditAccount.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucEditMonHoc.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucEditPass.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucIndex.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucNhapDiem.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucNote.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucRegister.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucThongTin.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn-Win.exe.licenses
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucInformation.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmDoHoa.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucDoThi.resources
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\MySql.Data.dll
+F:\Winform\QuanLyDiemSinhVien_100917\DoAnCoSoNganh\DoAn-Win\bin\Debug\MySql.Data.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\QuanLySinhVien.csproj.ResolveComReference.cache
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn-Win.exe
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn-Win.pdb
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DoAn-Win.exe
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DoAn-Win.pdb
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Data.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Utils.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraBars.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\MySql.Data.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Office.v16.1.Core.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Data.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Utils.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraBars.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\MySql.Data.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Office.v16.1.Core.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmChiTietMonHoc.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmDoHoa.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmLogin.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmMain.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmNote.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.FrmNoteToday.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinh.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhHeThongTT.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhKhoaHocMT.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.frmTienTrinhMMT.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.Properties.Resources.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucAddMon.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucDoThi.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucEdit.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UcEditAccount.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucEditMonHoc.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucEditPass.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucIndex.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucInformation.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucNhapDiem.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.UserControl.ucNote.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucRegister.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn_Win.ucThongTin.resources
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+F:\Winform\QuanLyDiemSinhVien_201117\DoAnCoSoNganh\DoAn-Win\obj\Debug\DoAn-Win.exe.licenses

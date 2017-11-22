@@ -1,0 +1,349 @@
+﻿----10/08/2017/2:35pm
+CREATE DATABASE SoftQuanLySV
+GO
+---BẢNG SINH VIÊN----
+create table SinhVien(
+	MSSV varchar(8) primary key,
+	Pass varchar(20) not null,
+	HoTenSV nvarchar(50) not null,
+	NgaySinh varchar(20) not null,
+	Lop varchar(10) not null,
+	Nganh nvarchar(100) not null,
+	HeDT nvarchar(50) not null,
+	khoaHoc int not null
+)
+GO
+
+-----BẢN MÔN-----
+create table MonHoc
+(
+	MaMon varchar(6) primary key,
+	TenMon nvarchar(50) not null,
+	SoTinChi tinyint not null,
+)
+GO
+
+-----BẢNG GHI CHÚ-----
+CREATE TABLE Note
+(
+	Id INT PRIMARY KEY IDENTITY(1,1),
+	MSSV VARCHAR(8),
+	TieuDe NVARCHAR(500) not null,
+	GhiChu NVARCHAR(2000),
+	NgayLap DATETIME,
+	NgayThongBao DATETIME,
+	LanThongBao int,
+	FOREIGN KEY (MSSV) REFERENCES SinhVien(MSSV)
+)
+GO
+
+----BẢNG ĐIỂM------
+create table Diem
+(
+	MaMon varchar(6) not null,
+	Diem_10 FLOAT,
+	Diem_40 FLOAT ,
+	Diem_50 FLOAT ,
+	He_10 FLOAT ,
+	He_4 FLOAT ,
+	DiemChu varchar(2) ,
+	MSSV varchar(8) not null,
+	HocKy nvarchar(30) not null,
+	NamHoc VARCHAR(20),
+	PRIMARY KEY (MSSV,MaMon),
+	foreign key(MSSV) references SinhVien(MSSV),
+	foreign key (MaMon) references MonHoc(MaMon)
+)
+GO
+
+
+-----THÊM MÔN-----
+insert into MonHoc
+ values('CT1101',N'Những NLCB của CN Mác Lênin',5),
+ ('CT1104',N'Pháp luật đai cương',2),
+ ('CT1102',N'Tư tưởng Hồ Chí Minh',2),
+('CT1103',N'Đường lối CM của ĐCSVN',3),
+('CT1105',N'Con người và môi trường',2),
+('CT1106',N'Nhập môn xã hội học',2),
+('CB1106',N'Toán cao cấp A1',3),
+('CB1107',N'Toán cao cấp A2',3),
+('CB1108',N'Toán cao cấp A3',3),
+('CB1109',N'Xác suất thống kê',3),
+('CB1110',N'Toán kinh tế',3),
+('CB1111',N'Vật lý đại cương A1',3),
+('CB1112',N'Vật lý đại cương A2',3),
+('CB1113',N'Hóa đại cương',3),
+('CB1114',N'Quản lý kinh tế',2),
+('CB1115',N'Quản lý HCNN và quản lý ngành GDĐT',2),
+('TC1101',N'Giáo dục thể chất 1',0),
+('TC1102',N'Giáo dục thể chất 2',0),
+('TC1103',N'Giáo dục thể chất 3',0),
+('DT1229',N'Kỹ thuật số',3),
+('TH1201',N'Tin học cơ sở',2),
+('TH1203',N'Toán rời rạc',2),
+('TH1204',N'Lập trình căn bản',3),
+('TH1205',N'Cấu trúc máy tính',3),
+('TH1206',N'Cấu trúc dữ liệu và giải thuật',3),
+('TH1207',N'Cơ sở dữ liệu',3),
+('TH1208',N'Hệ điều hành',3),
+('TH1209',N'Lập trình hướng đối tượng',3),
+('TH1210',N'Đồ họa máy tính',3),
+('TH1211',N'Lý thuyết ngôn ngữ hình thức & tính toán',2),
+('TH1212',N'PT & TK thuật toán',2),
+('TH1213',N'Web - Internet',3),
+('TH1214',N'Mạng máy tính',3),
+('TH1215',N'Truyền số liệu',2),
+('TH1216',N'Đồ án cơ sở ngành',1),
+('TH1217',N'Xử lý tiếng nói',3),
+('TH1301',N'Lập trình Windows',3),
+('TH1302',N'Trí tuệ nhân tạo',2),
+('TH1303',N'Phát triển phần mềm mã nguồn mở',3),
+('TH1304',N'Ngôn ngữ lập trình',3),
+('TH1305',N'PTTK hệ thống',3),
+('TH1306',N'Xử lý ảnh',2),
+('TH1307',N'Hệ QTCSDL',3),
+('TH1308',N'Lập trình Web',3),
+('TH1309',N'Lập trình Java',3),
+('TH1310',N'Lập trình cơ sở dữ liệu',3),
+('TH1311',N'Quản trị mạng máy tính',3),
+('TH1312',N'Hệ thống phân tán',2),
+('TH1313',N'An toàn hệ thống và an ninh mạng',3),
+('TH1314',N'Lập trình mạng',3),
+('TH1316',N'Thiết kế mạng máy tính',3),
+('TH1317',N'Tương tác người máy',3),
+('TH1319',N'Quản trị dự án công nghệ thông tin',3),
+('TH1333',N'Đồ án chuyên ngành',1),
+('TH1336',N'Đồ án công nghệ phần mềm',1),
+('TH1324',N'Phân tích thiết kế hướng đối tượng',3),
+('TH1321',N'Nhập môn công nghệ phần mềm',3),
+('TH1325',N'Phát triển phần mềm hướng dịch vụ',2),
+('TH1331',N'Khai phá dữ liệu',2),
+('TH1330',N'Lập trình mạng',3),
+('TH1322',N'Đảm bảo chất lượng phần mềm',3),
+('TH1601',N'Thực tập tốt nghiệp',2),
+('TH1602',N'Khóa luận tốt nghiệp',10),
+('TH1327',N'Quản trị dự án công nghệ thông tin',3),
+('TH1332',N'Hệ trợ giúp quyết định',3),
+('TH1335',N'Thị giác máy tính',3),
+('TH1334',N'Nguyên lý máy học',3),
+('QP1101',N'Đường lối quân sự của Đảng',0),
+('QP1102',N'Công tác quốc phòng – An ninh',0),
+('QP1103',N'Kỹ thuật bắn súng tiểu liên AK',0),
+('TC111A',N'GDTC 2 Điền kinh 1',0),
+('TC112A',N'GDTC 3 Điền kinh 2',0)
+GO
+
+---THÊM TÀI KHOẢN MẶC ĐỊNH---
+INSERT INTO SinhVien values('admin','admin','Admin',27/09/1997,'1CTT15A','CNTT',N'Đại học',2015),
+							('15004116','1',N'Lê Bá Trọng',27/09/1997,'1CTT15A','CNTT',N'Đại học',2015),
+							('1','','Tester',27/09/1997,'1CTT15A','CNTT',N'Đại học',2015)
+GO
+
+
+----HIỂN THỊ THÔNG TIN SINH VIÊN-------
+create proc spHienThiThongTinSV(@mssv varchar(8))
+as
+	begin
+		select HoTenSV,NgaySinh,Lop,Nganh,HeDT,khoaHoc from SinhVien where MSSV=@mssv
+	end
+GO
+----HIỂN THI THÔNG TIN MÔN HỌC-----
+CREATE PROC spHienThiMonHoc
+as
+	begin
+		select * from MonHoc
+	end
+GO
+
+-----INSERT ĐIỂM------
+CREATE procedure spInsertDiem(@mamon varchar(6), @diem10 VARCHAR(5), @diem40 VARCHAR(5), @diem50 VARCHAR(5), @he10 VARCHAR(5), @he4 VARCHAR(5), @diemchu varchar(2), @mssv varchar(8),@hocky nvarchar(30), @namhoc VARCHAR(20))
+as 
+	Begin
+		if exists( select MaMon from Diem where MSSV=@mssv and MaMon=@mamon)
+			begin
+				print N'Đã có môn học'
+			end
+		else
+			begin
+				insert into Diem (MaMon,Diem_10,Diem_40,Diem_50,He_10,He_4,DiemChu,MSSV,HocKy,NamHoc)
+					values(@mamon,@diem10,@diem40,@diem50,@he10,@he4,@diemchu,@mssv,@hocky,@namhoc)
+			end
+	End
+GO
+
+----CHỈNH SỬA THÔNG TIN MÔN HỌC-----
+create proc spUpdateMonHoc
+(
+	@mamon varchar(6), 
+	@diem10 float, 
+	@diem40 float, 
+	@diem50 float, 
+	@he10 float, 
+	@he4 float, 
+	@diemchu varchar(2), 
+	@mssv varchar(8),
+	@hocky nvarchar(30)
+)
+as
+	begin
+		if not exists (select * from Diem where MSSV=@mssv and MaMon=@mamon)
+			begin
+				print N'Không có môn học'
+			end
+		else
+			begin
+				update Diem
+					set Diem_10=@diem10,
+						Diem_40=@diem40,
+						Diem_50=@diem50,
+						He_10=@he10,
+						He_4=@he4,
+						DiemChu=@diemchu,
+						HocKy=@hocky
+					where MSSV=@mssv and MaMon=@mamon
+			end
+	end
+GO
+
+-----XÓA MÔN HỌC------
+create proc spXoaMonHoc
+(
+	@mamon varchar(6),
+	@mssv varchar(8)
+)
+as
+	begin
+		if exists(select * from Diem where MaMon=@mamon and MSSV=@mssv)
+			begin
+				delete from Diem
+				where MaMon=@mamon and MSSV=@mssv
+				print N'Xóa thành công'
+			end
+		else
+			begin
+				print N'Xóa không thành công'
+			end
+	end
+GO
+
+----CHỈNH SỬA THÔNG TIN SINH VIÊN----
+create proc spUpdateThongtinSinhVien
+(
+	@mssv varchar(8),
+	@pass varchar(20),
+	@hoten nvarchar(50),
+	@ngaysinh datetime,
+	@lop varchar(10),
+	@nganh nvarchar(100),
+	@hedt nvarchar(50),
+	@khoahoc int
+)
+as
+	begin
+		update SinhVien
+		set Pass=@pass,
+			HoTenSV=@hoten,
+			NgaySinh=@ngaysinh,
+			Lop=@lop,
+			HeDT=@hedt,
+			khoaHoc=@khoahoc
+		where MSSV=@mssv
+	end
+GO
+
+-----TÌM MÔN HỌC-----
+create proc spTimMonHoc
+(
+
+	@tukhoa nvarchar(50)
+)
+as
+	begin
+		select * from MonHoc where MaMon like '%'+@tukhoa+'%' or TenMon like N'%'+@tukhoa+'%'
+	end
+GO
+
+
+----THÊM SINH VIÊN-----
+create proc spInsertSinhVien
+(
+	@MSSV varchar(8),
+	@Pass varchar(20),
+	@HoTenSV nvarchar(50),
+	@NgaySinh datetime,
+	@Lop varchar(10),
+	@Nganh nvarchar(100),
+	@HeDT nvarchar(50),
+	@khoaHoc int
+)
+as
+	begin
+		insert into SinhVien (MSSV,Pass,HoTenSV,NgaySinh,Lop,Nganh,HeDT,khoaHoc)
+		values(@MSSV,@Pass,@HoTenSV,@NgaySinh,@Lop,@Nganh,@HeDT,@khoaHoc)
+	end
+GO
+
+---INSERT MÔN HỌC---
+CREATE PROC spInsertMonHoc
+(
+	@mamon VARCHAR(8),
+	@tenmon NVARCHAR(100),
+	@tc INT
+)
+AS	
+	BEGIN
+		IF NOT EXISTS(SELECT MaMon FROM	dbo.MonHoc WHERE MaMon=@mamon)
+			INSERT INTO dbo.MonHoc
+			        ( MaMon, TenMon, SoTinChi )
+			VALUES  ( @mamon,@tenmon,@tc)
+		ELSE	
+			UPDATE dbo.MonHoc
+					SET	TenMon=@tenmon,SoTinChi=@tc
+					WHERE MaMon=@mamon
+	END 
+GO
+
+---GET TIẾN TRÌNH---
+create proc [dbo].[sp_GetTienTrinh] (@ms varchar(8))
+as
+BEGIN
+   SELECT MaMon,Diem_10,Diem_40,Diem_50,DiemChu FROM diem where MSSV=@ms;
+END
+
+GO
+
+---TIẾN TRÌNH CHI TIẾT MÔN---
+CREATE proc [dbo].[sp_TienTrinhChiTietMon] (@ms varchar(8) , @mm varchar(6))
+as
+
+   BEGIN
+	SELECT Diem.MaMon,TenMon,Diem_10,Diem_40,Diem_50,DiemChu from diem,MonHoc WHERE MSSV=@ms and Diem.MaMon=@mm and Diem.mamon=MonHoc.mamon;
+END
+GO
+---THÊM GHI CHÚ ------
+CREATE procedure [dbo].[spInsertNote](@mssv varchar(8), @tieude nvarchar(500), @ghichu nvarchar(2000), @ngaythongbao varchar(50))
+as
+begin
+	insert into Note(mssv,tieude,ghichu,ngaylap,ngaythongbao,lanthongbao)
+		values (@mssv,@tieude,@ghichu,getdate(),Convert(datetime,@ngaythongbao,103),0)
+end
+
+GO
+
+---- TRIGGER KIEM TRA LOI NGAY THONG BAO
+create trigger CheckDate
+On Note
+for Insert
+as
+	begin
+		declare @d datetime
+		set @d=(select NgayThongBao from inserted)
+		if (@d < getdate())
+			begin
+				print N'Lỗi: ' + cast( @d as varchar(30)) + ' < ' + cast(getdate() as varchar(30) )
+				ROLLBACK TRAN
+			end
+		
+	end
+GO	
+

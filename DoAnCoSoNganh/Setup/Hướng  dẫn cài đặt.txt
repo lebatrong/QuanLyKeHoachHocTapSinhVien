@@ -1,0 +1,3 @@
+﻿Chạy file setupSQLexpress.exe nếu sql trong máy là bản sql express
+
+Chạy lần đầu cần run dưới quyền admin để tạo data
